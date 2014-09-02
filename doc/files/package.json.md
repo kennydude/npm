@@ -295,7 +295,7 @@ configs.
 
 ## dependencies
 
-Dependencies are specified with a simple object of package name to
+Dependencies are specified with a simple object that maps package name to
 version range. The version range is a string which has one or more
 space-separated descriptors.  Dependencies can also be identified with
 a tarball or git URL.
