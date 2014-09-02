@@ -271,7 +271,7 @@ html project page that you put in your browser.  It's for computers.
 
 ## scripts
 
-The "scripts" member is an object object of script commands that are run
+The "scripts" member is an object containing script commands that are run
 at various times in the lifecycle of your package.  The key is the lifecycle
 event, and the value is the command to run at that point.
 

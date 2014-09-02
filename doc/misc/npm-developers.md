@@ -86,7 +86,7 @@ least, you need:
   then you need to specify that in the "main" field.
 
 * directories:
-  This is a object of folders.  The best ones to include are "lib" and
+  This is an object of folders.  The best ones to include are "lib" and
   "doc", but if you specify a folder full of man pages in "man", then
   they'll get installed just like these ones.
 
